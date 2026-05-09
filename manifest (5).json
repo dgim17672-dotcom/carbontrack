@@ -1,0 +1,22 @@
+{
+  "name": "CarbonTrack",
+  "short_name": "CarbonTrack",
+  "description": "Carbon market prices, news & business emissions tracker",
+  "start_url": "/carbontrack/",
+  "display": "standalone",
+  "background_color": "#0a0f0a",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/carbontrack/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/carbontrack/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
